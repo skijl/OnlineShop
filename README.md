@@ -10,8 +10,8 @@ Welcome to the Online Shop project! This project is aimed at creating a scalable
 - Inventory Management: Tracking product inventory and stock levels.
 - Payment Processing: Integration with payment gateways for secure payment processing.
 - Notification System: Sending notifications to users about order updates, promotions, etc.
-# Microservices
-
+## Microservices
+![OnlineShop2](https://github.com/skijl/OnlineShop/assets/128129267/d50cf46b-088f-4877-96c8-7ee380886e7e)
 1. Authentication Service: Handles user authentication and authorization.
 2. Product Service: Manages products and categories.
 3. Order Service: Manages order creation, order status, and order history.
@@ -20,7 +20,7 @@ Welcome to the Online Shop project! This project is aimed at creating a scalable
 6. Inventory Service: Manages product inventory and stock levels.
 7. Notification Service: Sends notifications to users about order updates.
 8. Api-Gateway: Gateway for the whole application
-# Database System
+## Database System
 ![OnlineShop-2024-03-17_04-25](https://github.com/skijl/OnlineShop/assets/128129267/3a1c8ead-20fc-4517-be9d-1876c8378b48)
 ## Technologies Used
 - Java Spring Boot: For building microservices.
